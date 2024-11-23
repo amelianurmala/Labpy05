@@ -14,7 +14,6 @@ Kelas  : TI.24.A2
 ![Screenshot (128)](https://github.com/user-attachments/assets/9c31812e-a946-4b95-a1bc-c9e9d97200ff)
 
 # Berikut adalah Penjelasannya
-Berikut penjelasan rinci tetapi singkat untuk kode program:
 
 1. **Data Mahasiswa**:
    - Data disimpan dalam sebuah *dictionary*, di mana nama mahasiswa adalah **kunci**, dan nilai-nilainya adalah **nilai sub-dictionary**.
@@ -35,5 +34,31 @@ Berikut penjelasan rinci tetapi singkat untuk kode program:
 
 4. **Rapi dan Informatif**:
    - Tabel menggunakan format *string formatting* untuk memastikan data terlihat rapi dan mudah dibaca.
+
+# Berikut adalah hasilnya (Output)
+
+1. TambahkAN Data
+   ![Screenshot (129)](https://github.com/user-attachments/assets/53b4ffd5-efeb-4c34-bd8b-835dded66e3c)
+
+2. Tampilkan Data
+   ![Screenshot (130)](https://github.com/user-attachments/assets/4e50d3d9-3f4b-49f6-95db-63aad3d04a22)
+
+3. Ubah Data
+   ![Screenshot (131)](https://github.com/user-attachments/assets/d22c6a5f-8538-4426-9522-ea3758ddb4f4)
+
+4. Cari Data
+   ![Screenshot (132)](https://github.com/user-attachments/assets/ef3e0dfc-8062-4609-9ab9-e23f616a6495)
+
+5. Hapus Data
+   ![Screenshot (133)](https://github.com/user-attachments/assets/d7d5382b-21ac-442b-86fa-4829a327f30d)
+
+6. Keluar
+   ![Screenshot (137)](https://github.com/user-attachments/assets/0ecc686c-295e-4a16-b85c-650a47bad10f)
+
+
+
+
+
+
 
 
