@@ -151,6 +151,47 @@ Fungsi utama yang menampilkan menu interaktif untuk pengguna. Langkah-langkahnya
     
    ![Screenshot (137)](https://github.com/user-attachments/assets/0ecc686c-295e-4a16-b85c-650a47bad10f)
 
+   
+
+---
+
+## LATIHAN - Pertemuan Ke 10
+
+# Berikut adalah kodenya
+
+![Screenshot (139)](https://github.com/user-attachments/assets/107cff12-f7b2-435d-87e9-d6ae959bc303)
+![Screenshot (140)](https://github.com/user-attachments/assets/e2068707-8743-47d8-8707-338f4af06988)
+
+# Berikut adalah penjelasannya
+
+1. **Format Output**:
+   - Menggunakan format string `f"{nama:<10} : {nomor}"` untuk merapikan tampilan daftar kontak.
+   - Nama ditampilkan rata kiri dengan lebar 10 karakter untuk hasil yang rapi.
+
+2. **Penggunaan `get()`**:
+   - Digunakan untuk mendapatkan nilai dengan kunci, memberikan *default value* jika kunci tidak ditemukan.
+
+3. **Iterasi**:
+   - Pada semua iterasi (`for` loop), kontak ditampilkan dengan format rapi agar mudah dibaca.
+
+---
+
+# Berikut Hasinya ( Output )
+
+![Screenshot (138)](https://github.com/user-attachments/assets/d3b27698-4cec-43e4-acdc-b54e6098f7b7)
+
+
+## Berikut adalah Gmabar Flowchartnya
+
+![flowchart Tugas Pratikum](https://github.com/user-attachments/assets/4800b3ee-ebff-4d50-a461-a109d9dcccb1)
+
+
+
+
+
+
+
+
 
 
 
