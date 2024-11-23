@@ -151,6 +151,14 @@ Fungsi utama yang menampilkan menu interaktif untuk pengguna. Langkah-langkahnya
     
    ![Screenshot (137)](https://github.com/user-attachments/assets/0ecc686c-295e-4a16-b85c-650a47bad10f)
 
+
+---
+
+# Berikut adalah Gambar Flowchartnya
+
+![flowchart Tugas Pratikum](https://github.com/user-attachments/assets/f584a41c-9bd2-4d36-82c2-69cacacfcc56)
+
+
    
 
 ---
@@ -181,9 +189,6 @@ Fungsi utama yang menampilkan menu interaktif untuk pengguna. Langkah-langkahnya
 ![Screenshot (138)](https://github.com/user-attachments/assets/d3b27698-4cec-43e4-acdc-b54e6098f7b7)
 
 
-## Berikut adalah Gmabar Flowchartnya
-
-![flowchart Tugas Pratikum](https://github.com/user-attachments/assets/4800b3ee-ebff-4d50-a461-a109d9dcccb1)
 
 
 
